@@ -1,6 +1,7 @@
 # HONEYPOT-and-FIREWALL-
 
-# Project Summary: Implementing a honeypot and firewall enables real-time simulation of cyber threats, capturing attack attempts while filtering and blocking unauthorized access. This enhances security monitoring and threat analysis
+# Project Summary: 
+Implementing a honeypot and firewall enables real-time simulation of cyber threats, capturing attack attempts while filtering and blocking unauthorized access. This enhances security monitoring and threat analysis
 
 ## Objective:
 The goal of this project is to enhance the security of a Windows-based system by implementing a honeypot to detect and analyze potential cyber threats and configuring a firewall to prevent unauthorized access.
